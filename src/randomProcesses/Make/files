@@ -22,4 +22,4 @@ $(turbulence)/turbGen.C
 
 $(noise)/noiseFFT.C
 
-LIB = $(FOAM_LIBBIN)/librandomProcesses
+LIB = $(FOAM_USER_LIBBIN)/librandomProcesses

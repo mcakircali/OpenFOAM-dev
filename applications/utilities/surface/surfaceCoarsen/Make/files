@@ -2,4 +2,4 @@ bunnylod/progmesh.C
 bunnylod/vector.C
 surfaceCoarsen.C
 
-EXE = $(FOAM_APPBIN)/surfaceCoarsen
+EXE = $(FOAM_USER_APPBIN)/surfaceCoarsen

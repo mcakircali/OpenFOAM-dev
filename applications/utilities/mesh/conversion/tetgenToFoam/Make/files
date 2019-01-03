@@ -1,4 +1,4 @@
 
 tetgenToFoam.C
 
-EXE = $(FOAM_APPBIN)/tetgenToFoam
+EXE = $(FOAM_USER_APPBIN)/tetgenToFoam

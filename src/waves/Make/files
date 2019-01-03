@@ -11,4 +11,4 @@ derivedFvPatchFields/waveAlpha/waveAlphaFvPatchScalarField.C
 derivedFvPatchFields/waveVelocity/waveVelocityFvPatchVectorField.C
 derivedFvPatchFields/wavePressure/wavePressureFvPatchScalarField.C
 
-LIB = $(FOAM_LIBBIN)/libwaves
+LIB = $(FOAM_USER_LIBBIN)/libwaves

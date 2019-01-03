@@ -38,4 +38,4 @@ $(derivedPoint)/uniformInterpolatedDisplacement/uniformInterpolatedDisplacementP
 
 
 
-LIB = $(FOAM_LIBBIN)/libfvMotionSolvers
+LIB = $(FOAM_USER_LIBBIN)/libfvMotionSolvers

@@ -2,4 +2,4 @@
 coalParcel/makeCoalParcelSubmodels.C
 coalCloudList/coalCloudList.C
 
-LIB = $(FOAM_LIBBIN)/libcoalCombustion
+LIB = $(FOAM_USER_LIBBIN)/libcoalCombustion

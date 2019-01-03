@@ -19,4 +19,4 @@ $(MarchingCubes)/hash_octree.cpp
 
 foamyHexMeshSurfaceSimplify.C
 
-EXE = $(FOAM_APPBIN)/foamyHexMeshSurfaceSimplify
+EXE = $(FOAM_USER_APPBIN)/foamyHexMeshSurfaceSimplify

@@ -1,4 +1,4 @@
 autoRefineMesh.C
 
-EXE = $(FOAM_APPBIN)/autoRefineMesh
+EXE = $(FOAM_USER_APPBIN)/autoRefineMesh
 

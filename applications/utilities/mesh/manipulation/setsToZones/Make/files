@@ -1,4 +1,4 @@
 setsToZones.C
 
-EXE = $(FOAM_APPBIN)/setsToZones
+EXE = $(FOAM_USER_APPBIN)/setsToZones
 

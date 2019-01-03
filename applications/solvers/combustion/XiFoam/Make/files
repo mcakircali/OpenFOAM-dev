@@ -1,3 +1,3 @@
 XiFoam.C
 
-EXE = $(FOAM_APPBIN)/XiFoam
+EXE = $(FOAM_USER_APPBIN)/XiFoam

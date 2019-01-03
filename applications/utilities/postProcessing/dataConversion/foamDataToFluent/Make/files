@@ -2,4 +2,4 @@ writeFluentScalarField.C
 writeFluentVectorField.C
 foamDataToFluent.C
 
-EXE = $(FOAM_APPBIN)/foamDataToFluent
+EXE = $(FOAM_USER_APPBIN)/foamDataToFluent

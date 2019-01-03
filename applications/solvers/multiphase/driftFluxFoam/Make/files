@@ -2,4 +2,4 @@ incompressibleTwoPhaseInteractingMixture/incompressibleTwoPhaseInteractingMixtur
 compressibleTurbulenceModels.C
 driftFluxFoam.C
 
-EXE = $(FOAM_APPBIN)/driftFluxFoam
+EXE = $(FOAM_USER_APPBIN)/driftFluxFoam

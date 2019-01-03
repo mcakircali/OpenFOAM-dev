@@ -52,4 +52,4 @@ rigidBodySolvers/symplectic/symplectic.C
 rigidBodySolvers/Newmark/Newmark.C
 rigidBodySolvers/CrankNicolson/CrankNicolson.C
 
-LIB = $(FOAM_LIBBIN)/librigidBodyDynamics
+LIB = $(FOAM_USER_LIBBIN)/librigidBodyDynamics

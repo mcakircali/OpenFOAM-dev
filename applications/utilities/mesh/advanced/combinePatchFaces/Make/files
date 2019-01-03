@@ -1,4 +1,4 @@
 combinePatchFaces.C
 
-EXE = $(FOAM_APPBIN)/combinePatchFaces
+EXE = $(FOAM_USER_APPBIN)/combinePatchFaces
 

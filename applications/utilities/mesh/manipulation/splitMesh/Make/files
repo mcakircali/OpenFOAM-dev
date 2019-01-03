@@ -1,4 +1,4 @@
 regionSide.C
 splitMesh.C
 
-EXE = $(FOAM_APPBIN)/splitMesh
+EXE = $(FOAM_USER_APPBIN)/splitMesh

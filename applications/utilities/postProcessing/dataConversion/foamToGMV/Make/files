@@ -1,4 +1,4 @@
 foamToGMV.C
 itoa.C
 
-EXE = $(FOAM_APPBIN)/foamToGMV
+EXE = $(FOAM_USER_APPBIN)/foamToGMV

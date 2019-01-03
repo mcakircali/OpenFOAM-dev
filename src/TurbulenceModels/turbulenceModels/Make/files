@@ -73,4 +73,4 @@ $(generalizedNewtonianViscosityModels)/HerschelBulkley/HerschelBulkley.C
 $(generalizedNewtonianViscosityModels)/powerLaw/powerLaw.C
 $(generalizedNewtonianViscosityModels)/strainRateFunction/strainRateFunction.C
 
-LIB = $(FOAM_LIBBIN)/libturbulenceModels
+LIB = $(FOAM_USER_LIBBIN)/libturbulenceModels

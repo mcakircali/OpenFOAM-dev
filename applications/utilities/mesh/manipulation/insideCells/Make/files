@@ -1,4 +1,4 @@
 insideCells.C
 
-EXE = $(FOAM_APPBIN)/insideCells
+EXE = $(FOAM_USER_APPBIN)/insideCells
 

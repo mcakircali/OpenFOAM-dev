@@ -1,4 +1,4 @@
 subsetMesh.C
 
-EXE = $(FOAM_APPBIN)/subsetMesh
+EXE = $(FOAM_USER_APPBIN)/subsetMesh
 

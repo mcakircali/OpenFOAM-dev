@@ -1,4 +1,4 @@
 rigidBodyMeshMotion/rigidBodyMeshMotion.C
 rigidBodyMeshMotionSolver/rigidBodyMeshMotionSolver.C
 
-LIB = $(FOAM_LIBBIN)/librigidBodyMeshMotion
+LIB = $(FOAM_USER_LIBBIN)/librigidBodyMeshMotion

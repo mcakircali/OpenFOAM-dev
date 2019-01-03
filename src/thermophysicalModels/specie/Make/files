@@ -4,4 +4,4 @@ reaction/reactions/makeReactions.C
 reaction/reactions/makeLangmuirHinshelwoodReactions.C
 reaction/reactions/makeMichaelisMentenReactions.C
 
-LIB = $(FOAM_LIBBIN)/libspecie
+LIB = $(FOAM_USER_LIBBIN)/libspecie

@@ -7,4 +7,4 @@ derivedFvPatchFields/nutkAtmRoughWallFunction/nutkAtmRoughWallFunctionFvPatchSca
 atmosphericTurbulentTransportModels.C
 porosityModels/powerLawLopesdaCosta/powerLawLopesdaCosta.C
 
-LIB = $(FOAM_LIBBIN)/libatmosphericModels
+LIB = $(FOAM_USER_LIBBIN)/libatmosphericModels

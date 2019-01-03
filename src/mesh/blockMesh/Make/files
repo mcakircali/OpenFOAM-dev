@@ -38,4 +38,4 @@ blockMesh/blockMeshMergeFast.C
 
 blockMeshTools/blockMeshTools.C
 
-LIB = $(FOAM_LIBBIN)/libblockMesh
+LIB = $(FOAM_USER_LIBBIN)/libblockMesh

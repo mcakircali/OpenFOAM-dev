@@ -1,4 +1,4 @@
 splitCells.C
 
-EXE = $(FOAM_APPBIN)/splitCells
+EXE = $(FOAM_USER_APPBIN)/splitCells
 

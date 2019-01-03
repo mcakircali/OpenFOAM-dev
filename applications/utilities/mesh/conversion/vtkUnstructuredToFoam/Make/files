@@ -1,4 +1,4 @@
 
 vtkUnstructuredToFoam.C
 
-EXE = $(FOAM_APPBIN)/vtkUnstructuredToFoam
+EXE = $(FOAM_USER_APPBIN)/vtkUnstructuredToFoam

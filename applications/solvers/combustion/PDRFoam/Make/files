@@ -30,4 +30,4 @@ laminarFlameSpeed/SCOPE/SCOPELaminarFlameSpeed.C
 /*PDRFoamAutoRefine.C*/
 PDRFoam.C
 
-EXE = $(FOAM_APPBIN)/PDRFoam
+EXE = $(FOAM_USER_APPBIN)/PDRFoam

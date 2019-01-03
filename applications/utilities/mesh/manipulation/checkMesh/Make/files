@@ -4,4 +4,4 @@ checkGeometry.C
 checkMeshQuality.C
 checkMesh.C
 
-EXE = $(FOAM_APPBIN)/checkMesh
+EXE = $(FOAM_USER_APPBIN)/checkMesh

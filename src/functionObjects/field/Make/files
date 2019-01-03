@@ -67,4 +67,4 @@ subtract/subtract.C
 
 interfaceHeight/interfaceHeight.C
 
-LIB = $(FOAM_LIBBIN)/libfieldFunctionObjects
+LIB = $(FOAM_USER_LIBBIN)/libfieldFunctionObjects

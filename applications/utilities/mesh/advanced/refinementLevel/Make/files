@@ -1,4 +1,4 @@
 refinementLevel.C
 
-EXE = $(FOAM_APPBIN)/refinementLevel
+EXE = $(FOAM_USER_APPBIN)/refinementLevel
 

@@ -16,4 +16,4 @@ purgeCellShapes.C
 writeMesh.C
 star3ToFoam.C
 
-EXE = $(FOAM_APPBIN)/star3ToFoam
+EXE = $(FOAM_USER_APPBIN)/star3ToFoam

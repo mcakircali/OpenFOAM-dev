@@ -36,4 +36,4 @@ tools/labelledTri/sortLabelledTri.C
 
 triSurfaceFields/triSurfaceFields.C
 
-LIB = $(FOAM_LIBBIN)/libtriSurface
+LIB = $(FOAM_USER_LIBBIN)/libtriSurface

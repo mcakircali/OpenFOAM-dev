@@ -17,4 +17,4 @@ engineMesh/staticEngineMesh/staticEngineMesh.C
 engineMesh/layeredEngineMesh/layeredEngineMesh.C
 engineMesh/fvMotionSolverEngineMesh/fvMotionSolverEngineMesh.C
 
-LIB = $(FOAM_LIBBIN)/libengine
+LIB = $(FOAM_USER_LIBBIN)/libengine

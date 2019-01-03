@@ -1,3 +1,3 @@
 moveEngineMesh.C
 
-EXE = $(FOAM_APPBIN)/moveEngineMesh
+EXE = $(FOAM_USER_APPBIN)/moveEngineMesh

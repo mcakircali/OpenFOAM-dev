@@ -14,4 +14,4 @@ purgeCellShapes.C
 writeMesh.C
 sammToFoam.C
 
-EXE = $(FOAM_APPBIN)/sammToFoam
+EXE = $(FOAM_USER_APPBIN)/sammToFoam

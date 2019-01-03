@@ -1,3 +1,3 @@
 surfaceRedistributePar.C
 
-EXE = $(FOAM_APPBIN)/surfaceRedistributePar
+EXE = $(FOAM_USER_APPBIN)/surfaceRedistributePar

@@ -1,4 +1,4 @@
 
 gmshToFoam.C
 
-EXE = $(FOAM_APPBIN)/gmshToFoam
+EXE = $(FOAM_USER_APPBIN)/gmshToFoam

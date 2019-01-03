@@ -1,3 +1,3 @@
 surfaceSplitNonManifolds.C
 
-EXE = $(FOAM_APPBIN)/surfaceSplitNonManifolds
+EXE = $(FOAM_USER_APPBIN)/surfaceSplitNonManifolds

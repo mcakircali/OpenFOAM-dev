@@ -4,4 +4,4 @@ faceSelection/searchableSurfaceSelection.C
 
 createBaffles.C
 
-EXE = $(FOAM_APPBIN)/createBaffles
+EXE = $(FOAM_USER_APPBIN)/createBaffles

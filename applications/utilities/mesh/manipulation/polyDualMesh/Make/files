@@ -1,4 +1,4 @@
 meshDualiser.C
 polyDualMesh.C
 
-EXE = $(FOAM_APPBIN)/polyDualMesh
+EXE = $(FOAM_USER_APPBIN)/polyDualMesh

@@ -15,4 +15,4 @@ $(setWriters)/vtk/vtkSetWriterRunTime.C
 $(setWriters)/xmgrace/xmgraceSetWriterRunTime.C
 $(setWriters)/csv/csvSetWriterRunTime.C
 
-LIB = $(FOAM_LIBBIN)/libfileFormats
+LIB = $(FOAM_USER_LIBBIN)/libfileFormats

@@ -1,4 +1,4 @@
 
 mshToFoam.C
 
-EXE = $(FOAM_APPBIN)/mshToFoam
+EXE = $(FOAM_USER_APPBIN)/mshToFoam

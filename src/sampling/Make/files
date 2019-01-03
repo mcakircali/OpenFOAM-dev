@@ -66,4 +66,4 @@ meshToMesh0/calculateMeshToMesh0Addressing.C
 meshToMesh0/calculateMeshToMesh0Weights.C
 
 
-LIB = $(FOAM_LIBBIN)/libsampling
+LIB = $(FOAM_USER_LIBBIN)/libsampling

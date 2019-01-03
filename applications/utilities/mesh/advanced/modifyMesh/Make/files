@@ -1,4 +1,4 @@
 cellSplitter.C
 modifyMesh.C
 
-EXE = $(FOAM_APPBIN)/modifyMesh
+EXE = $(FOAM_USER_APPBIN)/modifyMesh

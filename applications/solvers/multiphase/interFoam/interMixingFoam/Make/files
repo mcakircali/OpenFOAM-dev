@@ -3,4 +3,4 @@ threePhaseInterfaceProperties/threePhaseInterfaceProperties.C
 immiscibleIncompressibleThreePhaseMixture/immiscibleIncompressibleThreePhaseMixture.C
 interMixingFoam.C
 
-EXE = $(FOAM_APPBIN)/interMixingFoam
+EXE = $(FOAM_USER_APPBIN)/interMixingFoam

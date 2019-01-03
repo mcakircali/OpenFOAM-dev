@@ -20,4 +20,4 @@ zoneCombustion/zoneCombustions.C
 
 noCombustion/noCombustions.C
 
-LIB = $(FOAM_LIBBIN)/libcombustionModels
+LIB = $(FOAM_USER_LIBBIN)/libcombustionModels

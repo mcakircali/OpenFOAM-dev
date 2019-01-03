@@ -1,3 +1,3 @@
 writeMeshObj.C
 
-EXE = $(FOAM_APPBIN)/writeMeshObj
+EXE = $(FOAM_USER_APPBIN)/writeMeshObj

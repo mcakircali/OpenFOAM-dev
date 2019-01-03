@@ -62,4 +62,4 @@ corrections/limitTemperature/limitTemperature.C
 corrections/limitVelocity/limitVelocity.C
 
 
-LIB = $(FOAM_LIBBIN)/libfvOptions
+LIB = $(FOAM_USER_LIBBIN)/libfvOptions

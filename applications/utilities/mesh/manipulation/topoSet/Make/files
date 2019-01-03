@@ -1,4 +1,4 @@
 topoSet.C
 
-EXE = $(FOAM_APPBIN)/topoSet
+EXE = $(FOAM_USER_APPBIN)/topoSet
 

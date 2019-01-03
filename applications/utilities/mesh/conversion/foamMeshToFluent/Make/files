@@ -1,4 +1,4 @@
 fluentFvMesh.C
 foamMeshToFluent.C
 
-EXE = $(FOAM_APPBIN)/foamMeshToFluent
+EXE = $(FOAM_USER_APPBIN)/foamMeshToFluent

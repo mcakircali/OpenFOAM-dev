@@ -7,4 +7,4 @@ CV2DIO.C
 shortEdgeFilter2D.C
 foamyQuadMesh.C
 
-EXE = $(FOAM_APPBIN)/foamyQuadMesh
+EXE = $(FOAM_USER_APPBIN)/foamyQuadMesh

@@ -1,3 +1,3 @@
 mdEquilibrationFoam.C
 
-EXE = $(FOAM_APPBIN)/mdEquilibrationFoam
+EXE = $(FOAM_USER_APPBIN)/mdEquilibrationFoam

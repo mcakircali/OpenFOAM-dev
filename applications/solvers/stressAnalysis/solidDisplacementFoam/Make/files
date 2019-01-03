@@ -2,4 +2,4 @@ derivedFvPatchFields/tractionDisplacement/tractionDisplacementFvPatchVectorField
 derivedFvPatchFields/hydrostaticDisplacement/hydrostaticDisplacementFvPatchVectorField.C
 solidDisplacementFoam.C
 
-EXE = $(FOAM_APPBIN)/solidDisplacementFoam
+EXE = $(FOAM_USER_APPBIN)/solidDisplacementFoam

@@ -6,4 +6,4 @@ springRenumber/springRenumber.C
 structuredRenumber/structuredRenumber.C
 structuredRenumber/OppositeFaceCellWaveName.C
 
-LIB = $(FOAM_LIBBIN)/librenumberMethods
+LIB = $(FOAM_USER_LIBBIN)/librenumberMethods

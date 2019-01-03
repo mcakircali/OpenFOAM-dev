@@ -2,4 +2,4 @@ moveDynamicMesh.C
 ../checkMesh/checkGeometry.C
 ../checkMesh/checkTools.C
 
-EXE = $(FOAM_APPBIN)/moveDynamicMesh
+EXE = $(FOAM_USER_APPBIN)/moveDynamicMesh

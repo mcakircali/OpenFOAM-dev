@@ -1,4 +1,4 @@
 removeFaces.C
 
-EXE = $(FOAM_APPBIN)/removeFaces
+EXE = $(FOAM_USER_APPBIN)/removeFaces
 

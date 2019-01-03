@@ -2,4 +2,4 @@ solidParticle.C
 solidParticleIO.C
 solidParticleCloud.C
 
-LIB = $(FOAM_LIBBIN)/libsolidParticle
+LIB = $(FOAM_USER_LIBBIN)/libsolidParticle

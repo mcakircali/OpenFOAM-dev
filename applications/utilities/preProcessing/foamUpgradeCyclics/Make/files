@@ -1,3 +1,3 @@
 foamUpgradeCyclics.C
 
-EXE = $(FOAM_APPBIN)/foamUpgradeCyclics
+EXE = $(FOAM_USER_APPBIN)/foamUpgradeCyclics

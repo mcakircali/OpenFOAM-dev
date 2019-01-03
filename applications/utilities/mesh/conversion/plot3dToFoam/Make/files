@@ -1,4 +1,4 @@
 hexBlock.C
 plot3dToFoam.C
 
-EXE = $(FOAM_APPBIN)/plot3dToFoam
+EXE = $(FOAM_USER_APPBIN)/plot3dToFoam

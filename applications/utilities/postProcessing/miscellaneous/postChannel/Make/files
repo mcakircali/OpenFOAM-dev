@@ -1,4 +1,4 @@
 postChannel.C
 channelIndex.C
 
-EXE = $(FOAM_APPBIN)/postChannel
+EXE = $(FOAM_USER_APPBIN)/postChannel

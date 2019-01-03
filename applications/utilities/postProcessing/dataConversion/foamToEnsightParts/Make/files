@@ -1,3 +1,3 @@
 foamToEnsightParts.C
 
-EXE = $(FOAM_APPBIN)/foamToEnsightParts
+EXE = $(FOAM_USER_APPBIN)/foamToEnsightParts

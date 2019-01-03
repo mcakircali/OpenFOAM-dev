@@ -1,3 +1,3 @@
 createExternalCoupledPatchGeometry.C
 
-EXE = $(FOAM_APPBIN)/createExternalCoupledPatchGeometry
+EXE = $(FOAM_USER_APPBIN)/createExternalCoupledPatchGeometry

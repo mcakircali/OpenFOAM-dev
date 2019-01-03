@@ -1,4 +1,4 @@
 
 surfaceSplitByTopology.C
 
-EXE = $(FOAM_APPBIN)/surfaceSplitByTopology
+EXE = $(FOAM_USER_APPBIN)/surfaceSplitByTopology

@@ -9,4 +9,4 @@ writeDictionary/writeDictionary.C
 writeObjects/writeObjects.C
 time/timeFunctionObject.C
 
-LIB = $(FOAM_LIBBIN)/libutilityFunctionObjects
+LIB = $(FOAM_USER_LIBBIN)/libutilityFunctionObjects

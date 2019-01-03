@@ -18,4 +18,4 @@ $(decompositionConstraints)/singleProcessorFaceSets/singleProcessorFaceSetsConst
 $(decompositionConstraints)/refinementHistory/refinementHistoryConstraint.C
 
 
-LIB = $(FOAM_LIBBIN)/libdecompositionMethods
+LIB = $(FOAM_USER_LIBBIN)/libdecompositionMethods

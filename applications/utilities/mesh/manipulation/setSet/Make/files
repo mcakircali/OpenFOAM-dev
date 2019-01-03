@@ -3,5 +3,5 @@ writeFuns.C
 writePatch.C
 setSet.C
 
-EXE = $(FOAM_APPBIN)/setSet
+EXE = $(FOAM_USER_APPBIN)/setSet
 

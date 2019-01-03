@@ -1,4 +1,4 @@
 
 netgenNeutralToFoam.C
 
-EXE = $(FOAM_APPBIN)/netgenNeutralToFoam
+EXE = $(FOAM_USER_APPBIN)/netgenNeutralToFoam
